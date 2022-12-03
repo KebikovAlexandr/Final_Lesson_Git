@@ -8,3 +8,7 @@ Final_Lesson_Git имеются несколько файлов в том чис
 2)Мне дался курс по GitHub легко
 3)В проекте main.swift при запуске программы будет написано на экране "Hello, Gedsan"
 https://vk.com/gedsan# Final_Lesson_Git
+# Final_Lesson_Git
+# Final_Lesson_Git
+# Final_Lesson_Git
+# Final_Lesson_Git
